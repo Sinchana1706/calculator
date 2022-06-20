@@ -1,0 +1,30 @@
+.title{
+    margin-left: 40%;
+    align-items: center;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align:center;
+    width: 200px;
+    color:#5d44ff;
+    border: solid black 1px;
+    }
+    input[type="button"]
+    {
+    border-radius: 10px;
+    background-color:#5d44ff;
+    color: black;
+    border-color:#5d44ff ;
+    width:100%;
+    }
+    input[type="text"]
+    {
+    border-radius: 10px;
+    text-align: right;
+    background-color:white;
+    border-color: black ;
+    width:100%
+    }
+.myn{
+    margin-left: 40%;
+
+}
